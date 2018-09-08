@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Hello"
 "Hi"
+=======
+srgsdfsdfsad
+>>>>>>> parent of fa7a575... Revert "Revert "Revert "Revert "Update Hello.txt""""
